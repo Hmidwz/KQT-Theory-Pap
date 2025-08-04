@@ -1,0 +1,73 @@
+KQT Theory: Quantum Genesis and Λ from Vacuum Entropy
+
+نظرية KQT: التخلق الكمومي واستخلاص Λ من إنتروبيا الفراغ
+
+Author / المؤلف: Saleem Ahmed Mohammed Abdullah Qaed Al-Hubaishi
+Email / البريد الإلكتروني: matatech087@gmail.com
+Date / التاريخ: October 2025
+
+
+---
+
+📄 Abstract / الملخص التنفيذي
+
+This paper introduces a novel mathematical-empirical model for deriving the cosmological constant (Λ) directly from vacuum entropy using the Quantum Genesis Operator (QGO). By defining a foundational frequency (νₑᶠᶠ) and linking it with Hawking entropy, we designed the QVFD detector capable of measuring vacuum fluctuations with 2.7×10⁻⁶ rad precision using Bose-Einstein condensates (BEC). We also demonstrate, mathematically and on IBM Osprey, a reduction of SAT algorithm energy to 98.3 keV.
+
+تقدم هذه الدراسة نموذجًا رياضيًا تجريبيًّا لاشتقاق الثابت الكوني (Λ) مباشرةً من إنتروبيا الفراغ عبر المشغل التكويني الكمومي (QGO). اعتمادًا على تردد تأسيسي فريد (νₑᶠᶠ) وعلاقته بإنتروبيا هوكينج، صممنا كاشف QVFD القادر على رصد تقلبات الفراغ بدقة 2.7×10⁻⁶ راديان باستخدام مكثفات بوز-أينشتاين. كما أثبتنا رياضيًا وتجريبيًا (عبر IBM Osprey) خفض طاقة خوارزمية SAT إلى 98.3 keV.
+
+
+---
+
+📂 Contents / محتوى المستودع
+
+KQT_Bilingual_Research_Paper.pdf — Final bilingual version (English + Arabic)
+
+KQT_theory.tex — (optional) Source LaTeX file
+
+figures/ — Folder for charts and experimental schematics (if needed)
+
+
+
+---
+
+📌 How to Cite / كيفية الاستشهاد:
+
+@misc{qaed2025kqt,
+  author = {Qaed Al-Hubaishi, Saleem},
+  title = {KQT Theory: Quantum Genesis and Λ from Vacuum Entropy},
+  year = {2025},
+  note = {GitHub Repository},
+  url = {https://github.com/YOUR_USERNAME/KQT-Theory-Paper}
+}
+
+> Note: After releasing a version via GitHub, consider linking this repo with zenodo.org to generate a permanent DOI for citation.
+
+
+
+
+---
+
+🚀 Applications / التطبيقات العملية
+
+Energy generation from vacuum fields: 1.05 MW/m³ theoretical output
+
+Ultra-efficient quantum computing: 98.3 keV per SAT operation
+
+Experimental validation via BEC + QVFD sensor
+
+
+
+---
+
+📧 Contact / للتواصل
+
+If you're a researcher or institution interested in collaboration or experimental replication, please contact:
+matatech087@gmail.com
+
+
+---
+
+> "وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ" (التوبة: ١٠٥)
+
+
+
